@@ -1,0 +1,6 @@
+[submodule "third_party/googletest"]
+	path = third_party/googletest
+	url = https://github.com/google/googletest.git
+[submodule "third_party/arm_dfp"]
+	path = third_party/arm_dfp
+	url = https://github.com/ARM-software/Cortex_DFP.git
